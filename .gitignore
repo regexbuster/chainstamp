@@ -5,3 +5,5 @@ Backend/.env
 Backend/cache
 Backend/artifacts
 
+.vscode
+
