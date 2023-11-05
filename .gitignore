@@ -1,0 +1,7 @@
+Backend/node_modules
+Backend/.env
+
+# Hardhat files
+Backend/cache
+Backend/artifacts
+
